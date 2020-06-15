@@ -1,0 +1,43 @@
+body{
+	font-family: Serif;
+	padding: 0px;
+	margin:20px 200px 50px 200px;
+	background-image: url("01.jpg");
+	}
+header{
+	text-align: left;
+	background-image: url("1111.jpg");
+	Margin:5px;
+	height:200px;
+
+	}
+
+h2{
+	font-family:"Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;
+	background-color: white;
+	}
+
+.maincontain{
+	height: 500px;
+	font-size: 20px;
+	font-weight: bold;
+	Margin: 5px;
+	background-color: white;
+		}
+	p{
+				min-height: 30px;
+				max-height:125px;
+
+			background-color: white;
+		}
+
+
+
+footer{
+	text-align: center;
+	height:50px;
+	margin:5px;
+	background-color: white;

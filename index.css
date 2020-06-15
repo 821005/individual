@@ -1,0 +1,75 @@
+body{
+	font-family: Serif;
+	padding: 0px;
+	margin:20px 200px 50px 200px;
+	background-image: url("01.jpg");
+	Border:0px;
+	}
+
+	nav{
+		display: inline;
+	}
+header{
+	text-align: center;
+	color:blue;
+	font-family: Serif;
+	background-color:white;
+	height:120px;
+	font-size: 14px;
+	Margin:5px;
+	margin-top: 5px;
+
+}
+
+header ul li{
+	display: inline-flex;
+	font-size:20px;
+	padding: 10px 10px 20px 20px;
+	float: center;
+	}
+h3{
+	font-family:"Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;
+	}
+
+.maincontain{
+	height: 500px;
+	text-align: center;
+	Margin: 5px;
+	background-color:white;
+	}
+.submenu{
+		width:300px;
+		height:350px;
+		margin:10px;
+		padding:10px;
+		background-color:white;
+		float:left;
+		font-size: 25px;
+	}
+	.submenubody{
+		width:250px;
+		height:25px;
+		margin:5px;
+		padding:5px;
+		background-image: url("Yellow.jpg");
+		float:left;
+
+
+   }
+	.content{
+		align:center;
+		width:1054px;
+		height:350px;
+		margin:10px;
+		padding:10px 20px;
+
+		float:right;
+	}
+footer{
+	text-align: center;
+	height:50px;
+	margin:0px;
+	background-color:white;

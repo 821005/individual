@@ -1,0 +1,56 @@
+body{
+	font-family: Serif;
+	padding: 0px;
+	margin:20px 200px 50px 200px;
+	background-image: url("01.jpg");
+	}
+header{
+	text-align: left;;
+	Margin:5px;
+	height:80x;
+	text-align: center;
+	background-image: url("Yellow.jpg");
+
+}
+
+h2{
+	font-family:"Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;
+	background-color:white;
+	}
+
+.maincontain{
+	height: 450px;
+	text-align: left;
+	Margin: 5px;
+	background-color:white;
+	}
+.submenu{
+		width:250px;
+		height:350px;
+		margin:10px;
+		padding:10px;
+		background-color:white;
+		float:left;
+		font-family:"Times New Roman", Times, serif;
+		font-style: italic;
+		font-size: 14px;
+		font-weight: bold;
+	}
+
+	.content{
+		width:580px;
+		height:400px;
+		margin:5px;
+		padding:10px;
+		background-color:white;
+		text-align: center;
+		float:left;
+	}
+footer{
+	text-align: center;
+	height:50px;
+	margin:5px;
+	background-color:white;
